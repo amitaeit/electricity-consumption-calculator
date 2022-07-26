@@ -16,7 +16,7 @@ int main()
     
     while(1){
         int applicanceType;
-        printf("Enter the Type of Applianc:\n");
+        printf("Enter the Type of Appliance:\n");
         printf("1 for Fan:\n");
         printf("2 for AC:\n");
         printf("3 for LED Bulb:\n");
